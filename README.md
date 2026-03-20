@@ -4,8 +4,6 @@ Software Engineer transitioning to AI Engineering. 25 years in enterprise consul
 
 My background is in translating business requirements into technical solutions and making sure they actually work at scale. That's the same lens I bring to AI: evaluation rigor, measurable quality, and pipelines that produce evidence — not just outputs.
 
-Currently focused on RAG systems, structured evaluation, fine-tuning, and multi-agent architectures.
-
 ## Projects
 
 | Project | What it does |
