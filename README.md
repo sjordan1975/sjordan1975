@@ -1,8 +1,10 @@
 # Hi, I'm Salim
 
-Software Engineer transitioning to AI Engineering. Background in PHP, JavaScript, and TypeScript — now building LLM-powered products, RAG systems, and evaluation pipelines in Python.
+Software Engineer transitioning to AI Engineering. 25 years in enterprise consulting (MarkLogic, Oracle, RightNow) across APAC and North America — now building LLM-powered products, RAG systems, and evaluation pipelines in Python.
 
-Currently expanding expertise in AI/LLM application development through hands-on projects and formal training focused on Python, prompt engineering, RAG systems, transformer architectures, multimodal apps, fine-tuning, model evaluation, agentic AI, and multi-agent systems.
+My background is in translating business requirements into technical solutions and making sure they actually work at scale. That's the same lens I bring to AI: evaluation rigor, measurable quality, and pipelines that produce evidence — not just outputs.
+
+Currently focused on RAG systems, structured evaluation, fine-tuning, and multi-agent architectures.
 
 ## Projects
 
