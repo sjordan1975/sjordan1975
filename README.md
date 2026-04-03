@@ -8,7 +8,7 @@ My background is in translating business requirements into technical solutions a
 
 ## Projects
 
-| Project | What it does |
+| Project | What it Does |
 |---------|-------------|
 | [RAG Pipeline for Financial Document Search](https://github.com/sjordan1975/rag-pipeline-financial-documents) | Systematic evaluation of chunking (fixed-size, sentence/NLTK, semantic/spaCy), embedding (OpenAI text-embedding-3-small/large), and retrieval (BM25, FAISS vector, hybrid w/ min-max fusion) strategies for a 160-page financial report. 66 experiments — each iteration motivated by the previous result, not a mechanical grid sweep. Key finding: sentence-based chunking at 500 chars with no overlap outperforms conventional approaches (MRR 0.831, Recall@5 0.967). Reranking (Cohere) degraded accuracy.<br><br>Python · FAISS · OpenAI · Pydantic · pytest. |
 | [Resume Coach: Synthetic Data Pipeline](https://github.com/sjordan1975/synthetic-data-pipeline) | Production-style pipeline for generating and validating synthetic job/resume datasets (250 pairs from 6 job templates × 6 resume templates). Rules-based evaluation (Pydantic schema + 5 failure classes incl. `missing_core_skills`, `seniority_mismatch`) with optional LLM-as-judge (GPT-4o-mini via Instructor). FastAPI service with runtime benchmarking — p95 latency: 0.016s rules-only, 8.3s with judge. Key finding: failure mode correlation (r=0.80 between `missing_core_skills` and `skills_overlap`) validates both metrics measure the same underlying problem. <br><br>Python · FastAPI · Pydantic · Instructor · GPT-4o-mini. |
