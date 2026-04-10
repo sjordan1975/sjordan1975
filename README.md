@@ -2,7 +2,7 @@
 
 **Software Engineer · AI Engineer · Professional Services Consultant**
 
-Software Engineer transitioning to AI Engineering. 25 years in enterprise consulting (MarkLogic, Oracle, RightNow) across APAC and North America — now building LLM-powered products, RAG systems, and evaluation pipelines in Python.
+I am a software engineer moving into AI engineering, with 25 years of experience in enterprise consulting for companies like MarkLogic, Oracle, and RightNow across APAC and North America. Now, I focus on building LLM-powered products, RAG systems, and evaluation pipelines using Python.
 
 My background is in translating business requirements into technical solutions and making sure they actually work at scale. That's the same lens I bring to AI: evaluation rigor, measurable quality, and pipelines that produce evidence — not just outputs.
 
