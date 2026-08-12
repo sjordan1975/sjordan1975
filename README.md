@@ -23,7 +23,7 @@ My background is in translating business requirements into technical solutions a
 
 ## Open Source Contributions
 
-Evaluation harness (Recall@K, MRR)
+Evaluation harness (Recall@K, MRR); citation-grounded generation with verified inline citations
 
 [![Open Source PRs](https://img.shields.io/badge/GitHub-Open%20Source%20Contributor-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Asjordan1975+is%3Amerged)
 
